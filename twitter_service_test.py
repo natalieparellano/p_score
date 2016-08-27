@@ -1,6 +1,6 @@
 import unittest
 
-from twitter import TwitterService
+from twitter_service import TwitterService
 
 class TwitterServiceTest( unittest.TestCase ):
 

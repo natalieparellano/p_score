@@ -1,6 +1,6 @@
 import unittest
 
-from score import ScoreService
+from score_service import ScoreService
 
 class ScoreServiceTest( unittest.TestCase ):
 
